@@ -1,0 +1,71 @@
+/*reset css*/
+*{
+    margin:0;
+}
+
+.bg-fav{
+    background-color: #aab5ff;
+}
+
+.bg-light{
+    background-color:white;
+    
+}
+.bg-secondary{
+    background-color:#f4d5ff;
+}
+
+.container{
+    width :80%;
+    margin:auto;
+}
+
+.nav{
+    width: 100%;
+    color: white ;
+    height: 25px;
+}
+
+nav .container h1{
+    float:left;
+}
+
+ul{
+    float:right;
+}
+
+.clear{
+    clear:both;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 10px;
+}
+.hero {
+    background-image:url('tm.jpg');
+    height: 200px;
+    width: 100%;
+    background-possition: 0 -500px;
+}
+#konten1{
+    width: 50%;
+    float: left;
+    border: 1px solid #ff4040;
+    margin-right: 8px;
+}
+.saya{
+    background-color: #9fb7bf;
+    text-align: center;
+}
+.about{
+    float: right;
+    border: 1px solid black;
+    width: 40%;
+}
+
+.about img{
+    width: 30px;
+    height: 30px;
+    
+}
